@@ -3,7 +3,7 @@ jQuery Ajax Progress
 > Push chunks of data from the backend and handle them in the frontend before the ajax request is actually finished
 
 > Example: 
-	// In the javascript
+// In the javascript
 	$ajax({
 		type: "GET",
 		url: 'example.php',
@@ -14,7 +14,7 @@ jQuery Ajax Progress
 		
 	})
 	
-	// In example.php
+// In example.php
 	<?php
 	yield('Starting a heavy operation...');
 	// Do some slow stuff
