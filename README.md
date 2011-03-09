@@ -2,7 +2,7 @@ jQuery Ajax Progress
 ==================
 > Push chunks of data from the backend and handle them in the frontend before the ajax request is actually finished
 
-> Example: 
+Example: 
 // In the javascript
 	$ajax({
 		type: "GET",
