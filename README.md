@@ -21,4 +21,6 @@ Example:
 	yield('The task is completed!');
 	?>
 	
-What's the data format? The first line is a separator string. Each chunk of data is fallowed by the separator line. See the helper function defined in [yield.php](https://github.com/sash/jquery-ajax-progress/blob/master/yield.php). 
+What's the data format? The first line is a separator string. Each chunk of data is fallowed by the separator line. See the helper function defined in [yield.php](https://github.com/sash/jquery-ajax-progress/blob/master/yield.php).
+
+For a complete working example checkout the repo and open [example.html](https://github.com/sash/jquery-ajax-progress/blob/master/example.html) in your browser.
