@@ -11,7 +11,6 @@ jQuery Ajax Progress
 			// update contains a string of the newly received data
 			console.log(update);
 		},
-		
 	})
 	
 // In example.php
